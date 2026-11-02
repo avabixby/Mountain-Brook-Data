@@ -1,0 +1,7 @@
+Stand,Plot ID,Date,Team Member(s),Natural Community Code,Stand Age Code,Topography Code,Water (Absent/Present),Water Type (If Applicable),Disturbance Code,Notes
+1,1,23-Oct,"JW, LA, JR, EJ, TQ, LW, AB, JM, EC, HP",HNH,T,P,Absent,NA,"7, 11, 13",
+2,1,23-Oct,"JW, LA, JR, LW, AB, JM, EC, HP",NH,T,P,Present,Permanent Stream,"7, 11, 13, 17","Beech bark disease, stumps found (advanced decay), higher ratio young to old"
+2,2,30-Oct,"AB, EC, LA, TQ, JM",HNH,T,P,Present,Ephemeral Stream,"5, 13","Beech bark disease, wind"
+2,3,30-Oct,"AB, EC, LA, TQ, JM",HNH,T,"CE, CX",Present,Ephemeral and Permanent Streams,4,Beech bark disease
+5,1,30-Oct,"ES, HP",NHH,T,CX,Absent,N/A,7,BBSD
+5,2,30-Oct,"JW, LW",HNH,T,CX,Absent,NA,"5, 7",
